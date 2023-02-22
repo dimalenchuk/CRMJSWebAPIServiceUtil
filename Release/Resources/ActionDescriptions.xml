@@ -1206,7 +1206,7 @@ SOFTWARE.
     <Description>Removes a component from an unmanaged solution. </Description>
     <Parameters>
       <Parameter Name="ComponentType">The type of solution component. </Parameter>
-      <Parameter Name="SolutionComponent">Solution component to add. </Parameter>
+      <Parameter Name="SolutionComponent">Solution component to remove. </Parameter>
       <Parameter Name="SolutionUniqueName">Unique name of the solution. </Parameter>
     </Parameters>
     <ReturnType>Contains the response from the RemoveSolutionComponent Action. </ReturnType>
